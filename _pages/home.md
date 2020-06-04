@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "Home"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /home/
   - /home.html
 ---
+
+# About Me
 
 I am a senior undergraduate student majoring in atmospheric science from [Peking University](http://english.pku.edu.cn/). I am particularly interested in the modern climate, including atmospheric dynamics and oceanography. I care about the changes of stratospheric ozone and Antarctic sea ice as well. In my research, I use a combination of reanalysis, numerical modeling, and analysis of observations. As an undergraduate student, I work under the supervision of [Prof. Yongyun Hu](http://www.phy.pku.edu.cn/~yyhu/) in PKU, and recently also work with [Prof. Eli Tziperman](https://www.seas.harvard.edu/climate/eli/) at Harvard. (learn more about me)
 
