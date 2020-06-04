@@ -7,11 +7,13 @@ redirect_from:
   - /resume
 ---
 
+
+{% include base_path %}
+
 # Under construction...
 
-<!-- {% include base_path %}
 
-Education
+<!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
