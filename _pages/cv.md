@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-#Under construction...
+# Under construction...
 
 <!-- {% include base_path %}
 
