@@ -19,9 +19,9 @@ I am particularly interested in the modern climate, including atmospheric dynami
 
 <!-- <br/> -->
 
-<!-- # Education
+# Education
 * B.S. in Atmospheric Sciences, 2016-2020\
-  <font size=2>Peking University</font> -->
+  <font size=2>Peking University</font>
 
 
 
