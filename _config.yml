@@ -82,19 +82,19 @@ analytics:
 author:
   name             : "Pengcheng Zhang"
   avatar           : "profile.jpg"
-  bio              : "Undergraduate student in Atmospheric Sciences. Peking University."
-  location         : "Beijing, China"
+  bio              : "Incoming graduate student in Scripps Institution of Oceanography, UC San Diego."
+  location         : "Jinan, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "zhangpengcheng@pku.edu.cn"
+  email            : "pczhang@ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/zpcllyj"
   foursquare       :
   github           : # "academicpages"
   google_plus      :
