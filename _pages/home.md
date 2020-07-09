@@ -9,9 +9,19 @@ redirect_from:
 
 # About Me
 
-I graduated and got the degree of Bachelor of Science in Atmospheric Sciences from [Peking University](http://english.pku.edu.cn/) in July, 2020. I will be a graduate student in [Scripps of Oceanography](https://scripps.ucsd.edu/), [UC San Diego](https://ucsd.edu/) this fall and pursue a doctoral degree. 
+I graduated and got the degree of Bachelor of Science in Atmospheric Sciences from [Peking University](http://english.pku.edu.cn/) in July, 2020. I will be a graduate student in [Scripps of Oceanography](https://scripps.ucsd.edu/), [UC San Diego](https://ucsd.edu/) and pursue a doctoral degree.
 
+<br/>
+
+
+# Research Interests
 I am particularly interested in the modern climate, including atmospheric dynamics and oceanography. I care about the changes of stratospheric ozone and Antarctic sea ice as well. In my research, I use a combination of reanalysis, numerical modeling, and analysis of observations. As an undergraduate student, I worked under the supervision of [Prof. Yongyun Hu](http://faculty.pku.edu.cn/yyhu/en/index.htm) in PKU, and also worked with [Prof. Eli Tziperman](https://www.seas.harvard.edu/climate/eli/) at Harvard.
+
+<!-- <br/> -->
+
+<!-- # Education
+* B.S. in Atmospheric Sciences, 2016-2020\
+  <font size=2>Peking University</font> -->
 
 
 
