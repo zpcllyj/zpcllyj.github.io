@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-I graduated and got the degree of Bachelor of Science in Atmospheric Sciences from [Peking University](http://english.pku.edu.cn/) in July, 2020. I will be a graduate student in [Scripps of Oceanography](https://scripps.ucsd.edu/), [UC San Diego](https://ucsd.edu/) and pursue a doctoral degree.
+I graduated and got the degree of Bachelor of Science in Atmospheric Sciences from [School of Physics](http://english.phy.pku.edu.cn/), [Peking University](http://english.pku.edu.cn/) in July, 2020. I will be a PhD student in [Scripps of Oceanography](https://scripps.ucsd.edu/), [UC San Diego](https://ucsd.edu/) and pursue a doctoral degree.
 
 <br/>
 
