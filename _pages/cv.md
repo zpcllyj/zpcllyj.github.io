@@ -7,10 +7,10 @@ redirect_from:
 ---
 
 [English Version [PDF]](https://pczhang.net/files/cv_english.pdf)<br>
-<small>Last updated: July 2020</small>
+<small>Last updated: August 2020</small>
 
 [Chinese Version [PDF]](https://pczhang.net/files/cv_chinese.pdf)<br>
-<small>最后更新: 2020年7月</small>
+<small>最后更新: 2020年8月</small>
 
 
 
