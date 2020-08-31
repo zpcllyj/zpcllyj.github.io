@@ -6,19 +6,28 @@ redirect_from:
   - /resume
 ---
 
-Full Vitae in [[PDF]](https://pczhang.net/files/cv_english.pdf)<br>
-<small>Last updated: August 2020</small>
+Full Vitae in [[PDF]](https://pczhang.net/files/cv_english.pdf)
+<small>( Updated Aug. 2020)</small>
 
-# Education
+## Education
 
-* B.S. in Atmospheric Sciences, 2016-2020\
+* B.S. in Atmospheric Sciences, 2016-2020<br>
   <font size=2>Peking University</font> 
 
-* Ph.D. in Oceanography, 2020-present\
+* Ph.D. in Oceanography, 2020-present<br>
   <font size=2>Scripps Institution of Oceanography</font>   
 
-<!-- [Chinese Version [PDF]](https://pczhang.net/files/cv_chinese.pdf)<br>
-<small>最后更新: 2020年8月</small> -->
+## Interests
+
+* Atmospheric Dynamics
+* Air-sea Interaction
+
+## Awards
+
+* Regents Fellowship of Scripps Institution of Oceanography
+* PKU Scholar in Physics of Peking University
+* Merit Student of Peking University
+* First Prize (Top 100 in China) of 32nd Chinese Physics Olympiad, Final
 
 
 
