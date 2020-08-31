@@ -11,11 +11,12 @@ Full Vitae in [[PDF]](https://pczhang.net/files/cv_english.pdf)
 
 ## Education
 
+* Ph.D. in Oceanography, 2020-present<br>
+  <font size=2>Scripps Institution of Oceanography</font> 
+  
 * B.S. in Atmospheric Sciences, 2016-2020<br>
   <font size=2>Peking University</font> 
-
-* Ph.D. in Oceanography, 2020-present<br>
-  <font size=2>Scripps Institution of Oceanography</font>   
+  
 
 ## Interests
 
