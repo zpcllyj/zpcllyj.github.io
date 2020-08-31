@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae"
+title: "Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 Full Vitae in [[PDF]](https://pczhang.net/files/cv_english.pdf)
-<small>( Updated Aug. 2020)</small>
+<small>(Updated Aug. 2020)</small>
 
 ## Education
 
