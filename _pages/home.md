@@ -7,15 +7,22 @@ redirect_from:
   - /home.html
 ---
 
-# About Me
+# Bio
 
-I graduated and got the degree of Bachelor of Science in Atmospheric Sciences from [School of Physics](http://english.phy.pku.edu.cn/), [Peking University](http://english.pku.edu.cn/) in July, 2020. I will be a PhD student in [Scripps of Oceanography](https://scripps.ucsd.edu/), [UC San Diego](https://ucsd.edu/) and pursue a doctoral degree.
+I am an incoming Ph.D. student in [Scripps Institution of Oceanography](https://scripps.ucsd.edu/), [UC San Diego](https://ucsd.edu/), and hopefully, will start my graduate life this autumn. 
+Prior to coming to SIO, I got my B.S in Atmospheric Sciences from [School of Physics](http://english.phy.pku.edu.cn/), [Peking University](http://english.pku.edu.cn/) in July, 2020. 
 
+I was fortunate and honored to have opportunities to work with many distinguished professors during my undergraduate years. [Prof. Yongyun Hu](http://faculty.pku.edu.cn/yyhu/en/index.htm) in PKU and [Prof. Eli Tziperman](https://www.seas.harvard.edu/climate/eli/) at Harvard, not only taught me specific knowledge and skills but also let me enjoy the fun of scientific research.
+
+<!-- In SIO, I may cooperate with [Dr. Nicholas Lutsko](https://nicklutsko.github.io/), [Prof. Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/), and [Prof. Ian Eisenman](http://eisenman.ucsd.edu/). -->
 <br/>
 
+<!-- 
+# Interests
 
-# Research Interests
-I am particularly interested in the modern climate, including atmospheric dynamics and oceanography. I care about the changes of stratospheric ozone and Antarctic sea ice as well. In my research, I use a combination of reanalysis, numerical modeling, and analysis of observations. As an undergraduate student, I worked under the supervision of [Prof. Yongyun Hu](http://faculty.pku.edu.cn/yyhu/en/index.htm) in PKU, and also worked with [Prof. Eli Tziperman](https://www.seas.harvard.edu/climate/eli/) at Harvard.
+* Atmospheric Dynamics
+* Air-sea Interaction
+I am particularly interested in the modern climate, including atmospheric dynamics and oceanography. I care about the changes of stratospheric ozone and Antarctic sea ice as well. In my research, I use a combination of reanalysis, numerical modeling, and analysis of observations. As an undergraduate student, I worked under the supervision of [Prof. Yongyun Hu](http://faculty.pku.edu.cn/yyhu/en/index.htm) in PKU, and also worked with [Prof. Eli Tziperman](https://www.seas.harvard.edu/climate/eli/) at Harvard. -->
 
 <!-- <br/> -->
 
