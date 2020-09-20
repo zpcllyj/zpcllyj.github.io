@@ -9,7 +9,7 @@ redirect_from:
 
 # Bio
 
-I am an incoming Ph.D. student in [Scripps Institution of Oceanography](https://scripps.ucsd.edu/), [UC San Diego](https://ucsd.edu/), and hopefully, will start my graduate life this autumn. 
+I am a first year Ph.D. student in [Scripps Institution of Oceanography](https://scripps.ucsd.edu/), [UC San Diego](https://ucsd.edu/) and major in Climate Science. 
 Prior to coming to SIO, I got my B.S. in Atmospheric Sciences from [School of Physics](http://english.phy.pku.edu.cn/), [Peking University](http://english.pku.edu.cn/) in July, 2020. 
 
 I was fortunate and honored to have opportunities to work with many distinguished professors during my undergraduate years. [Prof. Yongyun Hu](http://faculty.pku.edu.cn/yyhu/en/index.htm) in PKU and [Prof. Eli Tziperman](https://www.seas.harvard.edu/climate/eli/) at Harvard as well as other valued friends, not only taught me specific knowledge and skills but also let me enjoy the fun of scientific research.
