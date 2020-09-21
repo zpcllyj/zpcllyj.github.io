@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Super-Rotation in Earth's atmosphere <small>(Advisor: Dr. Nick Lutsko)</small>
+## Super-Rotation in Earth's atmosphere <small>(Advisor: Prof. Nick Lutsko)</small>
 
 Under construction...
 
