@@ -25,10 +25,10 @@ Full Vitae in [[PDF]](https://pczhang.net/files/cv_english.pdf)
 
 ## Awards
 
-* Regents Fellowship of Scripps Institution of Oceanography
-* PKU Scholar in Physics of Peking University
-* Merit Student of Peking University
-* First Prize (Top 100 in China) of 32nd Chinese Physics Olympiad, Final
+* **Regents Fellowship** of Scripps Institution of Oceanography
+* **PKU Scholar in Physics** of Peking University
+* **Merit Student** of Peking University
+* **First Prize** (Top 100 in China) of 32nd Chinese Physics Olympiad, Final
 
 
 
