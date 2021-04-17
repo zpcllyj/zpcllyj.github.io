@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-Full Vitae in [[PDF]](https://pczhang.net/files/cv_english.pdf)
+Full Vitae in [[PDF]](https://pczhang.com/files/cv_english.pdf)
 <small>(Updated Dec. 2020)</small>
 
 ## Education
