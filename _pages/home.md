@@ -20,7 +20,7 @@ I was fortunate and honored to have opportunities to work with many distinguishe
 <!-- In SIO, I may cooperate with [Dr. Nicholas Lutsko](https://nicklutsko.github.io/), [Prof. Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/), and [Prof. Ian Eisenman](http://eisenman.ucsd.edu/). -->
 <br/>
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=cGN6aGFuZzE5OThAZ21haWwuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=bmw4YTczaHBkbjh0MzE4N2QxZnNpdDZicDRkYWtpaXZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=emguY2hpbmEjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039BE5&color=%230B8043&color=%238E24AA&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=cGN6aGFuZzE5OThAZ21haWwuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=bmw4YTczaHBkbjh0MzE4N2QxZnNpdDZicDRkYWtpaXZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039BE5&color=%230B8043&color=%238E24AA" style="border-width:0" width="600" height="600" frameborder="0" scrolling="no"></iframe>
 
 <!-- 
 # Interests
