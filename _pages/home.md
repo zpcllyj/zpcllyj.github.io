@@ -9,8 +9,7 @@ redirect_from:
 
 # Bio
 
-I am a second year Ph.D. student in [Scripps Institution of Oceanography](https://scripps.ucsd.edu/).
-, [UC San Diego](https://ucsd.edu/) co-advised by [Prof. Nicholas Lutsko](https://nicklutsko.github.io/) and [Prof. Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/)
+I am a second year Ph.D. student in [Scripps Institution of Oceanography](https://scripps.ucsd.edu/), [UC San Diego](https://ucsd.edu/) co-advised by [Prof. Nicholas Lutsko](https://nicklutsko.github.io/) and [Prof. Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/). 
 I am interested in the dynamics of atmospheric circulation and ocean-atmosphere interaction. 
 Currently, I am working on a project of earth's tropospheric superrotation.  
 
