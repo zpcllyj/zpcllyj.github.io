@@ -3,7 +3,7 @@ title: "Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume/
 ---
 
 Full Vitae in [[PDF]](https://pczhang.com/files/cv_english.pdf)
