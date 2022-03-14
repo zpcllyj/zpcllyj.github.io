@@ -7,7 +7,7 @@ author_profile: true
 
 ## Super-Rotation in Earth's atmosphere <small>(Advisor: Prof. Nick Lutsko)</small>
 
-Under construction...
+Although Earth's troposphere does not superrotate in the annual-mean, for most of the year -- from October to May -- the winds of the tropical upper troposphere are westerly. We investigate this seasonal superrotation using reanalysis data and a single-layer model for the winds of the tropical upper troposphere. The temporal and spatial structures of the tropospheric superrotation are characterized, and the relationships of the superrotation with the leading modes of tropical interannual variability are investigated. It is also shown that the strength of the superrotation has remained roughly constant over the past few decades, despite the winds of the tropical upper troposphere decelerating (becoming more easterly) in other months. The underlying dynamics of the seasonal superrotation are revealed using a combination of momentum budget analysis and numerical simulations. Momentum flux convergence by stationary eddies accelerates the superrotation, while cross-equatorial easterly momentum transport associated with the Hadley circulation decelerates the superrotation. The seasonal modulations of these two competing factors shape the superrotation. The single-layer model is able to qualitatively reproduce the seasonal progression of the winds in the tropical upper troposphere, and highlights the northward displacement of the Intertropical Convergence Zone in the annual-mean as a key factor responsible for the annual-cycle of the tropical winds.
 
 ## Dynamics of Atmospheric Coastal Low-Level Jets <small>(Advisor: Prof. Eli Tziperman)</small>
 
