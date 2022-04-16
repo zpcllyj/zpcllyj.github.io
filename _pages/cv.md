@@ -21,7 +21,7 @@ Full Vitae in [[PDF]](https://pczhang.com/files/cv_english.pdf)
 ## Interests
 
 * Atmospheric Dynamics
-* Air-sea Interaction
+* Ocean–Atmosphere Interaction
 
 ## Awards
 
