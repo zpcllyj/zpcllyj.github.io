@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 Full Vitae in [[PDF]](https://pczhang.com/files/cv_english.pdf)
-<small>(Updated Dec. 2020)</small>
+<small>(Updated May 2022)</small>
 
 ## Education
 
