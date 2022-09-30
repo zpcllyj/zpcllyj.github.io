@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-<video width="800" height="600" controls>
+<video width="800" height="450" controls>
   <source src="https://pczhang.com/files/marine_layer.mp4" type="video/mp4">
   您的浏览器不支持 HTML5 video 标签。
 </video>
