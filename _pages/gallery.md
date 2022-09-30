@@ -6,13 +6,13 @@ redirect_from:
   - /art/
 ---
 
-<br/><br/>
 
 <figure>
     <img src="https://pczhang.com/images/gravity_wave_cloud.jpg"
          alt="Gravity wave clouds">
+    Clouds showing the structure of gravity wave. (Jun 12, 2022 at Breckenridge, Colorado)
 </figure>
-Clouds showing the structure of gravity wave. (Jun 12, 2022 at Breckenridge, Colorado)
+
 
 <br/><br/>
 
