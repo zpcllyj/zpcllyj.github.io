@@ -11,7 +11,8 @@ redirect_from:
 
 I am a third year Ph.D. student in [Scripps Institution of Oceanography](https://scripps.ucsd.edu/), [UC San Diego](https://ucsd.edu/) co-advised by [Prof. Nicholas Lutsko](https://nicklutsko.github.io/) and [Prof. Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/). 
 I am interested in the dynamics of atmospheric circulation and ocean-atmosphere interaction. 
-Currently, I am working on a project of earth's tropospheric superrotation.  This is a [brief interview](https://scripps.ucsd.edu/news/scripps-student-spotlight-pengcheng-zhang) about me.
+Currently, I am working on a project of earth's tropospheric superrotation.  
+<!-- This is a [brief interview](https://scripps.ucsd.edu/news/scripps-student-spotlight-pengcheng-zhang) about me. -->
 
 Prior to coming to SIO, I received my B.Sc. with Honors in Atmospheric Sciences from [School of Physics](http://english.phy.pku.edu.cn/), [Peking University](http://english.pku.edu.cn/) in July, 2020. 
 I was fortunate and honored to have opportunities to work with many distinguished professors during my undergraduate years. [Prof. Yongyun Hu](http://faculty.pku.edu.cn/yyhu/en/index.htm) in PKU and [Prof. Eli Tziperman](https://www.seas.harvard.edu/climate/eli/) at Harvard as well as other valued friends, not only taught me specific knowledge and skills but also let me enjoy the fun of scientific research.
