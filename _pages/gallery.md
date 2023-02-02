@@ -8,9 +8,9 @@ redirect_from:
 
 
 <figure>
-    <img src="https://pczhang.com/images/gravity_wave_cloud.jpg"
-         alt="Gravity wave clouds">
-    Clouds showing the structure of gravity wave. (Jun 12, 2022 at Breckenridge, Colorado)
+    <img src="https://pczhang.com/images/halo.jpg"
+         alt="Halo">
+    22 degree halo refracted by hexagonal ice crystals. (Feb 2, 2023 at La Jolla, California)
 </figure>
 
 
