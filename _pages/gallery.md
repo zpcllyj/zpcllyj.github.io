@@ -7,9 +7,11 @@ redirect_from:
 ---
 
 
-<iframe src="//player.bilibili.com/player.html?aid=483453684&bvid=BV1eT411r7y8&cid=1051026756&page=1&high_quality=1&danmaku=0" width="800" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
-Marine layer clouds captured by DJI drone. (Mar 12, 2023 at La Jolla, California)
+<iframe src="//player.bilibili.com/player.html?aid=483453684&bvid=BV1eT411r7y8&cid=1051026756&page=1&high_quality=1&danmaku=0" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
+
 </iframe>
+Marine layer clouds captured by DJI drone. (Mar 12, 2023 at La Jolla, California)
+
 
 
 <figure>
