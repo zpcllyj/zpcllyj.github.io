@@ -7,12 +7,13 @@ redirect_from:
 ---
 
 
-<iframe src="//player.bilibili.com/player.html?aid=483453684&bvid=BV1eT411r7y8&cid=1051026756&page=1&high_quality=1&danmaku=0" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
-
-</iframe>
+<video width="800" height="450" controls>
+  <source src="https://pczhang.com/files/CrossingClouds.mp4" type="video/mp4">
+  您的浏览器不支持 HTML5 video 标签。
+</video>
 Marine layer clouds captured by DJI drone. (Mar 12, 2023 at La Jolla, California)
 
-
+<br/><br/>
 
 <figure>
     <img src="https://pczhang.com/images/halo.jpg"
