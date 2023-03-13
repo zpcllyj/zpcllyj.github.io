@@ -13,6 +13,7 @@ redirect_from:
 </video>
 Marine layer clouds captured by DJI drone. (Mar 12, 2023 at La Jolla, California)
 
+
 <br/><br/>
 
 <figure>
