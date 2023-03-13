@@ -7,6 +7,11 @@ redirect_from:
 ---
 
 
+<iframe src="//player.bilibili.com/player.html?aid=483453684&bvid=BV1eT411r7y8&cid=1051026756&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
+Marine layer clouds captured by DJI drone. (Mar 12, 2023 at La Jolla, California)
+</iframe>
+
+
 <figure>
     <img src="https://pczhang.com/images/halo.jpg"
          alt="Halo">
