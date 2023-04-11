@@ -8,10 +8,10 @@ redirect_from:
 
 
 <video width="800" height="450" controls>
-  <source src="https://pczhang.com/files/CrossingClouds.mp4" type="video/mp4">
+  <source src="https://pczhang.com/files/CloudTops.mp4" type="video/mp4">
   您的浏览器不支持 HTML5 video 标签。
 </video>
-Marine layer clouds captured by DJI drone. (Mar 12, 2023 at La Jolla, California)
+Marine layer clouds advected southward in trade winds. (Apr 9, 2023 at La Jolla, California)
 
 
 <br/><br/>
