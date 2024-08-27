@@ -14,7 +14,7 @@ The feedback mechanism behind the IPOC effect does not necessarily rely on the a
 
 **Publication**: 
 1. Zhang, P., Xie, S.-P., Kosaka, Y., and Lutsko, N.J. (2024). Non-ENSO Precursors for Northwestern Pacific Summer Monsoon Variability with Implications for Predictability. <i>Journal of Climate</i>, *37*(1), 199-212. [[link]](https://doi.org/10.1175/JCLI-D-23-0169.1)
-2. Zhang, P., Xie, S.-P., Kosaka, Y., Lutsko, N.J., Okumura, Y.M., and Miyamoto A., 2024: Why East Asian Monsoon Anomalies Are More Robust in Post El Niño than in Post La Niña Summers. Nature Communications, *15*, 7401. [[link]](https://doi.org/10.1038/s41467-024-51885-7)
+2. Zhang, P., Xie, S.-P., Kosaka, Y., Lutsko, N.J., Okumura, Y.M., and Miyamoto A., 2024: Why East Asian Monsoon Anomalies Are More Robust in Post El Niño than in Post La Niña Summers. <i>Nature Communications</i>, *15*, 7401. [[link]](https://doi.org/10.1038/s41467-024-51885-7)
 
 
 ## Seasonal Superrotation in Earth's Troposphere
