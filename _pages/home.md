@@ -9,7 +9,7 @@ redirect_from:
 
 # Bio
 
-I am a fourth year Ph.D. student in [Scripps Institution of Oceanography](https://scripps.ucsd.edu/), [UC San Diego](https://ucsd.edu/) co-advised by [Prof. Nicholas Lutsko](https://nicklutsko.github.io/) and [Prof. Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/), and I expect to graduate in the summer of 2025.
+I am a fifth year Ph.D. student in [Scripps Institution of Oceanography](https://scripps.ucsd.edu/), [UC San Diego](https://ucsd.edu/) co-advised by [Prof. Nicholas Lutsko](https://nicklutsko.github.io/) and [Prof. Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/), and I expect to graduate in the summer of 2025.
 I am interested in the dynamics of atmospheric circulation and ocean-atmosphere interaction. 
 <!-- This is a [brief interview](https://scripps.ucsd.edu/news/scripps-student-spotlight-pengcheng-zhang) about me. -->
 
