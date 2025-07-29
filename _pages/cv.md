@@ -21,7 +21,7 @@ Full Vitae in [[PDF]](https://pczhang.com/files/cv_english.pdf)
 ## Academic Appointments
 
 * Postdoctoral research associate, 2025 – present<br>
-  <font size=2>the University of Chicago</font> 
+  <font size=2>The University of Chicago</font> 
 
 ## Interests
 
