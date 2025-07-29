@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Pengcheng Zhang"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate in Scripps Institution of Oceanography, UC San Diego."
-  location         : "La Jolla, CA"
+  bio              : "Postdoctoral research associate at the University of Chicago."
+  location         : "Chicago, IL"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=5VlmQDkAAAAJ"
-  email            : "pczhang@ucsd.edu"
+  email            : "pczhang@uchicago.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
