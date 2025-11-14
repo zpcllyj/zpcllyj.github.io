@@ -9,7 +9,7 @@ redirect_from:
 
 # Bio
 
-I am a postdoctoral research fellow at the [Climate Systems Engineering Initiative](https://climateengineering.uchicago.edu/), [the University of Chicago](https://www.uchicago.edu/), hosted by [Prof. Tiffany Shaw](https://geosci.uchicago.edu/~tas1/) and [Prof. Da Yang](https://www.yang-climate-group.org/). Broadly, I am interested in uncovering the physical mechanisms that govern climate variability and shape its predictability.
+I am a postdoctoral research fellow in the [Climate Systems Engineering initiative](https://climateengineering.uchicago.edu/) (CSEi) at [The University of Chicago](https://www.uchicago.edu/), hosted by [Prof. Tiffany Shaw](https://geosci.uchicago.edu/~tas1/) and [Prof. Da Yang](https://www.yang-climate-group.org/). Broadly, I am interested in uncovering the physical mechanisms that govern climate variability and shape its predictability.
 
 Before joining UChicago, I completed my Ph.D. in Oceanography at the Scripps Institution of Oceanography, UC San Diego, in July 2025. I received my B.Sc. with Honors in Atmospheric Sciences from the School of Physics, Peking University, in July 2020. As a student, I was fortunate to be mentored by [Prof. Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/) and [Prof. Nicholas Lutsko](https://nicklutsko.github.io/) at Scripps, [Prof. Yongyun Hu](http://faculty.pku.edu.cn/yyhu/en/index.htm) at PKU, and [Prof. Eli Tziperman](https://www.seas.harvard.edu/climate/eli/) at Harvard. They, along with many supportive colleagues, not only taught me valuable knowledge and skills but also helped me discover the joy of scientific research.
 
