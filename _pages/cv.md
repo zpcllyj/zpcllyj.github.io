@@ -7,11 +7,11 @@ redirect_from:
 ---
 
 Full Vitae in [[PDF]](https://pczhang.com/files/cv_english.pdf)
-<small>(Updated July 2025)</small>
+<small>(Updated November 2025)</small>
 
 ## Education
 
-* Ph.D. in Climate Sciences, 2020 – 2025<br>
+* Ph.D. in Oceanography, 2020 – 2025<br>
   <font size=2>Scripps Institution of Oceanography</font> 
   
 * B.Sc. (Hons.) in Atmospheric Sciences, 2016 – 2020<br>
@@ -25,7 +25,7 @@ Full Vitae in [[PDF]](https://pczhang.com/files/cv_english.pdf)
 
 ## Interests
 
-* Atmospheric Dynamics
+* Atmospheric and Climate Dynamics
 * Ocean–Atmosphere Interaction
 
 ## Awards
@@ -34,6 +34,3 @@ Full Vitae in [[PDF]](https://pczhang.com/files/cv_english.pdf)
 * **PKU Scholar in Physics** of Peking University
 * **Merit Student** of Peking University
 * **First Prize** (Top 100 in China) of 32nd Chinese Physics Olympiad, Final
-
-
-
