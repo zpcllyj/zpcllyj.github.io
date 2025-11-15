@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "pczhang1998"
+  username               : # &twitter "pczhang1998"
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pengcheng Zhang"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral research associate at the University of Chicago."
+  bio              : "Postdoctoral research fellow at the University of Chicago."
   location         : "Chicago, IL"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "pczhang1998" 
+  twitter          : # "pczhang1998" 
   vine             :
   weibo            :
   xing             :
