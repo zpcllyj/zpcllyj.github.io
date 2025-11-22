@@ -12,10 +12,10 @@ Full Vitae in [[PDF]](https://pczhang.com/files/cv_english.pdf)
 ## Education
 
 * Ph.D. in Oceanography, 2020 – 2025<br>
-  <font size=2>Scripps Institution of Oceanography</font> 
+  <font size=2>Scripps Institution of Oceanography, UC San Diego</font> 
   
 * B.Sc. (Hons.) in Atmospheric Sciences, 2016 – 2020<br>
-  <font size=2>Peking University</font> 
+  <font size=2>School of Physics, Peking University</font> 
   
 
 ## Academic Appointments
