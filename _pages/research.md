@@ -30,7 +30,8 @@ We further applied this framework to specific Hadley cell dynamics, exploring ho
 **Publication**: 
 1. Zhang, P., and Lutsko, N.J. (2022). Seasonal Superrotation in Earth’s Troposphere. <i>Journal of the Atmospheric Sciences</i>, *79*(12), 3297-3314. [[link]](https://doi.org/10.1175/JAS-D-22-0066.1)
 
-2. Zhang, P., Lutsko, N.J., Hill, S.A., and Xie, S.-P. (2025). Hadley Cell Dynamics in an Axisymmetric Single-Layer Model: Effects of Parameterized Eddies and Equatorial Heating. , <i>Journal of the Atmospheric Sciences</i>, in press.
+2. Zhang, P., Lutsko, N.J., Hill, S.A., and Xie, S.-P. (2025). Hadley Cell Dynamics in an Axisymmetric Single-Layer Model: Effects of Parameterized Eddies and Equatorial Heating. <i>Journal of the Atmospheric Sciences</i>, *82*(12), 2757-2770. [[link]](https://doi.org/10.1175/JAS-D-25-0076.1)
+
 
 ## Dynamics of Atmospheric Coastal Low-Level Jets
 
