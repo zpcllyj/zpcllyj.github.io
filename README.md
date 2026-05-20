@@ -1,31 +1,104 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# pczhang.com
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+Personal site for Pengcheng Zhang. Plain HTML/CSS/JS, served from GitHub Pages, custom domain via Dynadot.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+## File structure
 
-# Instructions
+```
+.
+├── CNAME                       # Custom domain ("pczhang.com")
+├── index.html                  # Home (bio, Education, Academic Appointments)
+├── publications.html           # Publications grouped by Submitted / year
+├── gallery.html                # Cloud / atmosphere videos
+├── calendar.html               # Hidden: weekly schedule (linked nowhere; share URL directly)
+├── schedule.html               # Redirect → calendar.html
+├── assets/
+│   ├── style.css               # Shared stylesheet (CSS vars at top)
+│   └── script.js               # Email assembly (anti-scraper)
+├── images/
+│   └── profile.jpg
+└── files/
+    ├── cv_english.pdf
+    ├── CloudTops.mp4
+    ├── marine_layer.mp4
+    └── paper/                  # Per-paper PDFs (linked from publications.html)
+        ├── 2025_Zhang_JAS.pdf
+        ├── 2025_Peng_NatGeo.pdf
+        ├── 2025_Xie_npj.pdf
+        ├── 2024_Zhang_NatComm.pdf
+        ├── 2024_Zhang_JClim.pdf
+        └── 2022_Zhang_JAS.pdf
+```
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+## Navigation
 
-See more info at https://academicpages.github.io/
+Three top-level pages: **Home**, **Publications**, **Gallery**.
+`calendar.html` and `schedule.html` are intentionally absent from the nav.
+`/calendar` shows my Google Calendar embedded in the site's layout (ctz set
+to America/Chicago). `/schedule` is a meta-refresh + JS redirect to
+`/calendar` so either URL works when shared. Both hidden pages carry
+`<meta name="robots" content="noindex, nofollow">`.
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+## Fonts
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+The site uses the **system font stack** only — no webfont files, no Google
+Fonts. The stack (`-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+…`) renders SF Pro on macOS/iOS, Segoe UI on Windows, Roboto on Android,
+and reasonable defaults elsewhere. This keeps the site equally fast
+worldwide (including mainland China) with zero font-loading delay.
 
-# Changelog -- bugfixes and enhancements
+If `assets/fonts/` still exists from the previous Geist-based design, it
+can be safely deleted.
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+## Anti-scraper email handling
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+`pczhang@uchicago.edu` is never written verbatim in the HTML source.
+Each `<a class="email-link" data-u="pczhang" data-d="uchicago.edu">`
+displays "pczhang [at] uchicago.edu" until `assets/script.js` assembles
+the real address at runtime and rewrites the `mailto:` href and text.
+
+To use the same pattern for another address:
+
+```html
+<a class="email-link" data-u="USERNAME" data-d="DOMAIN.TLD" href="#">
+  <span class="email-text">USERNAME [at] DOMAIN.TLD</span>
+</a>
+```
+
+## Editing content
+
+- **New publication** — copy a `<li>` block inside the appropriate
+  `<section class="pub-group">` in `publications.html`. Bold own name with
+  `<strong>`; equal-contribution authors get `<sup>†</sup>`; links append
+  as `<a class="meta" href="…">[link]</a>` and `<a class="meta"
+  href="files/paper/…">[pdf]</a>`. A `[news]` link can be added the same
+  way when relevant.
+- **Update Education or Appointments** — edit the `<ul class="cv-list">`
+  blocks on `index.html`.
+- **Adjust design tokens** (color, spacing, type scale) — CSS variables at
+  the top of `assets/style.css`.
+
+## Deploying
+
+Edit locally, commit, push. GitHub Pages rebuilds in ~1 minute and the
+custom domain keeps working.
+
+```bash
+git add -A
+git commit -m "Update site"
+git push
+```
+
+## Optional: video compression
+
+Re-encode gallery MP4s for web playback:
+
+```bash
+ffmpeg -i CloudTops.mp4 \
+  -c:v libx264 -crf 23 -preset slow -vf "scale=-2:720" \
+  -c:a aac -b:a 96k -movflags +faststart \
+  CloudTops_web.mp4
+```
+
+The `+faststart` flag puts metadata at the front of the file so playback
+starts before the file fully downloads.
