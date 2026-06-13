@@ -18,7 +18,6 @@
           "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
 
   --max-w: 1140px;
-  --max-w-wide: 1440px;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -26,6 +25,9 @@
 html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* Reserve the scrollbar gutter so short pages (no scrollbar) and long
+     pages (scrollbar) keep the same content width — prevents sideways jump. */
+  scrollbar-gutter: stable;
 }
 
 body {
@@ -75,8 +77,6 @@ main {
   margin: 0 auto;
   padding: 56px 40px 32px;
 }
-
-main.wide { max-width: var(--max-w-wide); }
 
 a {
   color: var(--link);
