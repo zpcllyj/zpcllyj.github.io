@@ -168,7 +168,9 @@ h2 {
   object-fit: cover;
   border: 1px solid var(--border);
   display: block;
-  margin-top: 48px;
+  /* Align the photo's top edge with the vertical center of the
+     contact-links button row (h1 height + margin + half a button). */
+  margin-top: 72px;
 }
 
 /* ===== CV lists (Education, Appointments) ===== */
